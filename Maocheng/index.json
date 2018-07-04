@@ -1,0 +1,43 @@
+{   
+	"list" :[ 
+	          {
+	      	    "src" : "1.jpg",
+	      	    "clas" : "im",
+	      	    "clss" : "ai",
+	      	    "cname" : "嘀嗒猫  蓝莓汁灌芯蒸蛋糕1kg/箱",
+	      	    "jia" : "98.00",
+	      	    "yuanjia" : "￥128.00",
+	      	    "che" : "icon_cart2.png",
+	          },
+	          {
+	          	"src": "2.jpg",
+	      	    "clas":"im",
+	      	    "clss":"ai",
+	      	    "cname":"吉力贝 迷惑怪味豆形糖果100g/盒",
+	      	    "jia":"88.00",
+	      	    "yuanjia":"￥128.00",
+	      	    "che":"icon_cart2.png",
+	          },
+	          {
+	          	"src": "3.jpg",
+	      	    "clas":"im",
+	      	    "clss":"ai",
+	      	    "cname":"嘀嗒猫 小米锅巴（蟹黄味）70g/袋",
+	      	    "jia":"88.00",
+	      	    "yuanjia":"￥128.00",
+	      	    "che":"icon_cart2.png",
+	          },
+	          {
+	          	"src": "4.jpg",
+	      	    "clas":"im",
+	      	    "clss":"ai",
+	      	    "cname":"嘀嗒猫 小米锅巴（蟹黄味）70g/袋",
+	      	    "jia":"88.00",
+	      	    "yuanjia":"￥128.00",
+	      	    "che":"icon_cart2.png",
+	          },
+    ]
+}
+
+
+
