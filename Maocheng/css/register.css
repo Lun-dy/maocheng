@@ -1,0 +1,256 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: "宋体";
+	color: #000;
+}
+/*logo*/
+.logo{
+	width: 1130px;
+	overflow: hidden;
+	margin: 40px auto;
+}
+.logo ul{
+	float: left;
+}
+.logo ul li{
+	float: left;
+}
+.logo ul li:nth-child(2){
+	margin-top:30px ;
+	padding-left:20px ;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+/*登录*/
+.deng{
+	width: 1130px;
+	height: 480px;
+	margin: 0px auto;
+	background: url(../img/loginbg0223.jpg) no-repeat left center;
+}
+.deng1{
+	margin-top: 30px;
+	float: right;
+	width: 364px;
+	height: 377px;
+	border: 1px solid #bbb;
+}
+.deng2>li{
+	float: left;
+}
+.deng2>li:nth-child(2){
+	
+	margin-left:270px ;
+	margin-top: -53px;
+}
+.deng2>li:nth-child(1){
+	font-size: 20px;
+	margin:28px ;
+}
+.deng2>li:nth-child(2) a{
+	font-weight: bold;
+	font-size: 18px;
+	color: #32CD32;
+}
+.deng3{
+	clear: both;
+	text-align: center;
+}
+.deng3 li{
+	float: left;
+}
+.deng3 li input{
+	font-size: 16px;
+	border: 1px solid #bbbbbb;
+	width: 232px;
+	height: 41px;
+}
+.deng3 li:nth-child(1){
+	margin-left: 53px;
+	width: 30px;
+	height: 41px;
+	border: 1px solid #bbb;
+	border-right: transparent ;
+}
+.deng3 li img{
+	margin-top: 9px;
+}
+
+.deng4{
+	
+	clear: both;
+	text-align: center;
+}
+.deng4 li{
+	float: left;
+}
+.deng4 li input{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	border: 1px solid #bbbbbb;
+	width: 232px;
+	height: 41px;
+}
+.deng4 li:nth-child(1){
+	margin-bottom:10px ;
+	margin-top: 20px;
+	margin-left: 53px;
+	width: 30px;
+	height: 41px;
+	border: 1px solid #bbb;
+	border-right: transparent ;
+}
+.deng4 li img{
+	margin-top: 9px;
+}
+.deng5{
+	clear: both;
+}
+.deng5 li{
+	font-size: 12px;
+	float: left;
+}
+.deng5 li:nth-child(1){
+	margin-top:4px ;
+	margin-left:52px ;
+}
+
+.deng5 li:nth-child(3){
+	
+	margin-left:144px ;
+}
+.deng6{
+	margin-top:33px ;
+	clear: both;
+	text-align: center;
+}
+.deng6 input{
+	color: #fff;
+	font-size: 24px;
+	font-weight: bold;
+	border: 1px solid #32CD32;
+	border-radius:2px ;
+	width: 271px;
+	height: 47px;
+	background: limegreen;
+}
+.deng7{
+	margin-top:24px ;
+}
+.deng7 li{
+	margin-left:46px ;
+	font-size: 14px;
+	color: #999;
+}
+.deng8{
+	margin-top: 4px;
+	margin-left:46px ;
+	float: left;
+}
+.deng8 li{
+	font-size: 14px;
+	float: left;
+}
+.deng8 li span{
+	border-radius: 50%;
+	background: url(../img/icon_login.png) no-repeat left center;
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+}
+.deng8 li:nth-child(1) span{
+	background: url(../img/icon_login.png) no-repeat left center #05a4e0;
+	background-position: 1px 3px;
+}
+.deng8 li:nth-child(2) span{
+	background: url(../img/icon_login.png) no-repeat left center #23c416;
+	background-position: 2px -30px;
+}
+.deng8 li:nth-child(3) span{
+	background: url(../img/icon_login.png) no-repeat left center #f5273b;
+	background-position: 1px -65px;
+}
+.deng8 li:nth-child(4) span{
+	background: url(../img/icon_login.png) no-repeat left center #00aaee;
+	background-position: 1px -99px;
+}
+
+/*底部*/
+.bottom{
+	overflow: hidden;
+    margin: 0 auto;
+    width: 1130px;
+}
+.bottom1{
+	width: 1130px;
+	height: 1px;
+	background: #999999;
+	margin-top: 20px;
+}
+.bottom2 ul li{
+	font-size: 14px;
+	line-height: 24px;
+	margin-right:55px ;
+	margin-left:55px ;
+	margin-top: 17px;
+    float: left;	
+}
+.bottom3{
+	clear: both;
+	width: 1130px;
+	height: 118px;
+	margin: 0 auto;
+	background: #f9f9f9;
+}
+.bottom3 ul li{
+	position: relative;
+	line-height: 90px;
+	width: 148px;
+	height: 90px;
+	background: bisque;
+	float: left;
+	margin:10px 114px;
+}
+.bottom3 ul li:nth-child(1){
+	background: url(../img/footicon.png) no-repeat ;
+	background-position: 10px -63px;
+}
+.bottom3 ul li:nth-child(2){
+	background: url(../img/footicon.png) no-repeat ;
+	background-position: 10px -143px;
+}
+.bottom3 ul li:nth-child(3){
+	background: url(../img/footicon.png) no-repeat ;
+	background-position: 10px -226px;
+}
+.bottom3 ul li span:nth-child(1){
+	position: absolute;
+	top: 37px;
+	left: -15px;
+	font-size: 18px;
+	color: #65B600;
+	font-weight: bold;
+}
+.bottom3 ul li span:nth-child(2){
+	position: absolute;
+	top: 37px;
+	left: 62px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.bottom4{
+	font-size: 12px;
+	line-height: 30px;
+	text-align: center;
+}
+.bottom4 p:nth-child(1) span{
+	margin:0 10px ;
+}
+.bottom4 p:nth-child(4) img{
+	margin:0 10px ;
+}
